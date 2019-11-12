@@ -12,6 +12,7 @@ public class demo {
         System.out.println("hello");
         System.out.println(8888);
         System.out.println(999);
+        System.out.println("主线");
 
     }
 }
