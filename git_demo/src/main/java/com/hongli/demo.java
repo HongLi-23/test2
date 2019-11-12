@@ -11,6 +11,7 @@ public class demo {
     public static void main(String[] args) {
         System.out.println("hello");
         System.out.println(8888);
+        System.out.println(999);
 
     }
 }
